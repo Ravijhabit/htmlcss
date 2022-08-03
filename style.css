@@ -8,6 +8,10 @@ body{
     font-family:'Montserrat', sans-serif;
 }
 
+hr{
+    margin:2rem 0rem;
+}
+
 /* Container */
 .container{
     padding:0 1rem;
@@ -38,3 +42,15 @@ body{
 }
 
 
+/* Lists */
+
+.list-non-bullet{
+    list-style: none;
+}
+
+.list-item-inline{
+    display:inline;
+    padding: 0 0.5rem;
+}
+
+/* Nav */
